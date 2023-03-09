@@ -56,7 +56,7 @@ const About = () => {
         expertise in frameworks like React, Node.Js, and Three.js. I'm a quick
         learner and collaborate closely with clients to create effiction ,
         scalable, and user-friendly solutions that solve real-world problems.
-        Let's work together to bring your ideas to file.
+        Let's work together to bring your ideas to life.
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index) => (
